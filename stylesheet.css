@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'JS Angsumalin';
+    src: url('JSAngsumalin.eot');
+    src: url('JSAngsumalin.eot?#iefix') format('embedded-opentype'),
+        url('JSAngsumalin.woff2') format('woff2'),
+        url('JSAngsumalin.woff') format('woff'),
+        url('JSAngsumalin.svg#JSAngsumalin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
